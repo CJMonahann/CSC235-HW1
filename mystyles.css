@@ -1,0 +1,234 @@
+/*
+    Name: Cornelius Monahan
+ 	Course:	  235.01
+ 	Homework: #1
+ 	Git-Hub:
+*/
+
+table {
+	width: 100%;
+}
+
+table.t1 {
+	width: 100%;
+	height: 20%;
+	border-top: 2px solid black;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+
+table.t2 {
+	height: 10%;
+	border-collapse: collapse;
+}
+
+table.t3 {
+	width:100%;
+	height: 50%;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	border-collapse: collapse;
+}
+
+table.t4 {
+	width:100%;
+	height: 100%;
+	background-color: #EAB8C3;
+	border-collapse: collapse;
+}
+
+table.t5 {
+	width:100%;
+	height: 100%;
+	border-collapse: collapse;
+}
+
+table.t6 {
+	width: 100%;
+	height: 30%;
+	border-collapse: collapse;
+}
+
+table.t7 {
+	width: 100%;
+	height: 20%;
+	background-color: #EEF7F6;
+	border-collapse: collapse;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	border-bottom: 2px soid black;
+}
+
+/* styles for first table */
+td.c1 {
+	width: 20%;
+}
+
+td.c2 {
+	width: 80%;
+	font-size: 25px;
+	text-align: center;
+	font-family: georgia;
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 1px 5px 2px #EFE3BB;
+	color: #A50476;
+}
+
+/* styles for second table */
+td.c3 {
+	width: 12%;
+	background-color:#28336B;
+	color: #F0EC91;
+	text-align: center;
+	font-family: arial;
+	font-size: 15px;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+
+td.c4 {
+	width: 12%;
+	background-color: #7D83A5;
+	color: white;
+	text-align: center;
+	font-family: arial;
+	font-size: 15px;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+
+td.c5 {
+	width: 20%;
+	background-color: #707698;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+
+/* styles for third table*/
+td.c6 {
+	width: 32%;
+}
+
+td.c7 {
+	width: 68%;
+}
+
+/* styles for fourth table*/
+td.c8 {
+	height: 5%;
+	padding-left: 8%;
+	background-image: linear-gradient(#C279B1 40%, #EAB8C3);
+}
+
+td.c9 {
+	height: 15%;
+	padding-left: 8%;
+}
+
+td.c10 {
+	height: 40%;
+	border-color: #88393E; 
+	border-style: dotted;
+	padding-left: 8%;
+}
+
+/* styles for fifth table*/
+td.c11 {
+	height: 5%;
+	background-image: linear-gradient(#F3E3BF 40%, #FFFFFF);
+	padding-left: 10.5%;
+}
+
+td.c12 {
+	height: 15%;
+	padding-left: 10.5%;
+}
+
+td.c13 {
+	height: 50%;
+	padding-left: 10.5%;
+	padding-bottom: 2.28%;
+}
+
+td.c14 {
+	height: 30%;
+	padding-left: 10.5%;
+}
+
+/* styles for sixth table*/
+td.c15 {
+	width: 35%;
+	background-color: #DDDDFF;
+	border-radius: 15px;
+	padding: 2%;
+}
+
+td.c16 {
+	width: 65%;
+}
+
+/* styles for seventh table*/
+td.c17 {
+	width: 30%;
+	padding-left: 3%;
+	font-family: arial;
+	font-size: 13px;
+}
+
+td.c18 {
+	width: 70%;
+}
+
+/* image styles */
+img.i1 {
+	height: 90%;
+	width: 100%;
+}
+
+img.i2 {
+	display: block;
+	border: 2px solid #D128CD;
+	outline: black;
+	height: 70%;
+	width: 85%;
+}
+
+img.i3 {
+	height: 41%;
+	width: 41%;
+	margin-left: 25%;
+}
+
+img.i4 {
+	width: 100%;
+	height: 100%;
+}
+
+/* text styles */
+h3 {
+	text-transform: uppercase;
+	font-family: calibri;
+	letter-spacing: 3px;
+}
+
+h4 {
+	text-transform: uppercase;
+	text-decoration: overline;
+	font-family: calibri;
+}
+
+.link1 {
+	color: blue;
+	text-decoration: underline;
+}
+
+.link2 {
+	color: blue;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+.diffText {
+	color: #808080
+}
